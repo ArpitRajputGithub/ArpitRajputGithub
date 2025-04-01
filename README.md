@@ -126,7 +126,17 @@
   <img src="https://profile-counter.glitch.me/ArpitRajputGithub/count.svg" />
 </div>
 
+
 <!-- The snake eating animation -->
 <div align="center">
-  <img src="https://github.com/ArpitRajputGithub/ArpitRajputGithub/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpitRajputGithub/ArpitRajputGithub/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpitRajputGithub/ArpitRajputGithub/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ArpitRajputGithub/ArpitRajputGithub/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- Colorful animation alternative -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArpitRajputGithub/ArpitRajputGithub/output/ocean.gif" alt="Snake animation ocean style" />
 </div>
