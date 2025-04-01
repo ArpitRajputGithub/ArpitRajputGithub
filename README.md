@@ -125,3 +125,8 @@
   ### 👨‍💻 Visitor Count
   <img src="https://profile-counter.glitch.me/ArpitRajputGithub/count.svg" />
 </div>
+
+<!-- The snake eating animation -->
+<div align="center">
+  <img src="https://github.com/ArpitRajputGithub/ArpitRajputGithub/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
