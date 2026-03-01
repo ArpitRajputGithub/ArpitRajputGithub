@@ -1,132 +1,149 @@
-# <div align="center">👋 Hello World, I'm Arpit Rajput</div>
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;UI/UX+Enthusiast;TypeScript+Developer)](https://git.io/typing-svg)
 
-  <p align="center">
-    <a href="https://github.com/ArpitRajputGithub"><img src="https://img.shields.io/github/followers/ArpitRajputGithub.svg?label=GitHub&style=social" alt="GitHub"></a>
-    <a href="https://arpitrajputgithub.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue" alt="Personal Website"></a>
-    <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen" alt="Open To Work">
-  </p>
+# Arpit Rajput
+
+**Full-Stack Developer** · Building scalable web & mobile systems · Delhi, India
+
+[![Portfolio](https://img.shields.io/badge/arpitrajput.xyz-000000?style=flat-square&logo=vercel&logoColor=white)](https://arpitrajput.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arpit-rajput-831393213)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/arpitstwt)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.arpitrajput@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square)](https://arpitrajput.xyz/#contact)
+
 </div>
 
+---
+
+## About
+
+I'm a full-stack developer focused on building production-grade applications — from real-time backend systems to polished frontend UIs. I care about clean architecture, developer experience, and shipping things that actually work.
+
+- 🏢 Previously at **LabBuddy** and **Plunge** — built APIs, real-time features, and CI/CD pipelines
+- 🌱 Exploring system design, distributed systems, and cloud-native patterns
+- 🤝 Co-founder of **[Codegeeks](https://whatsapp.com/channel/0029Vb6t1WcDZ4LUSuMSo62S)** — a developer community for builders
+
+---
+
+## Tech Stack
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=58a6ff)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=58a6ff)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=58a6ff)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=58a6ff)&nbsp;
+![GSAP](https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=58a6ff)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=58a6ff)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff)&nbsp;
+![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=58a6ff)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-161b22?style=flat-square&logo=graphql&logoColor=58a6ff)&nbsp;
+![BullMQ](https://img.shields.io/badge/BullMQ-161b22?style=flat-square&logo=redis&logoColor=58a6ff)
+
+**Database & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=58a6ff)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=58a6ff)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazon-aws&logoColor=58a6ff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=58a6ff)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=58a6ff)
+
 </div>
 
-## 💻 About Me
+---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## Work Experience
 
-- 🚀 Frontend Developer specializing in **React** and **TypeScript**
-- 🌐 Building modern web applications with cutting-edge technologies
-- 🎨 Passionate about creating beautiful, responsive UI designs
-- 🔍 Always exploring new technologies and techniques
-- 🌱 Currently expanding my knowledge in AWS deployments
-- 📫 Reach me at: [Contact Form](https://arpitrajputgithub.github.io/My-Portfolio/#contact)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>LabBuddy</h3>
+      <strong>Full Stack Developer</strong> · Apr – Oct 2025<br/><br/>
+      Built patient & lab management workflows for a healthcare platform.<br/><br/>
+      <ul>
+        <li>Designed secure FastAPI services with JWT auth — reduced vulnerabilities by <strong>95%</strong></li>
+        <li>Integrated AWS S3 + SES achieving <strong>99.9% uptime</strong></li>
+        <li>Delivered Firebase push notifications with <strong>98% delivery rate</strong></li>
+        <li>Built async background task system improving UX responsiveness by <strong>60%</strong></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Plunge</h3>
+      <strong>Full Stack Developer</strong> · Dec 2024 – Apr 2025<br/><br/>
+      Architected social networking features in React Native + Node.js.<br/><br/>
+      <ul>
+        <li>Cut backend latency by <strong>40%</strong>, boosting engagement by <strong>25%</strong></li>
+        <li>Set up GitHub Actions CI/CD, cutting deploy time by <strong>50%</strong></li>
+        <li>Shipped <strong>15+ features</strong> across agile sprints</li>
+        <li>Mentored junior developers and led code reviews</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-  ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![EmailJS](https://img.shields.io/badge/-EmailJS-2E86C1?style=for-the-badge&logo=gmail&logoColor=white)
-  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ArpitRajputGithub/CodeZen">
+        <img src="https://img.shields.io/badge/CodeZen-161b22?style=flat-square&logo=github&logoColor=58a6ff"/>
+      </a>
+      <br/><br/>
+      <strong><a href="https://github.com/ArpitRajputGithub/CodeZen">CodeZen</a></strong><br/>
+      <sub>React · TypeScript</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://arpitrajput.xyz">
+        <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=58a6ff"/>
+      </a>
+      <br/><br/>
+      <strong><a href="https://arpitrajput.xyz">arpitrajput.xyz</a></strong><br/>
+      <sub>Next.js · Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://streak-stats.demolab.com?user=ArpitRajputGithub&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitRajputGithub&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+
 </div>
 
-## 🌟 Featured Projects
+---
+
+## Currently
+
+| Status | Area | Details |
+|:---:|---|---|
+| 🟢 | **Learning** · Rust | Memory safety, ownership model, systems programming |
+| 🟢 | **Learning** · LLM Engineering | OpenAI / Anthropic APIs, RAG pipelines, function calling |
+| 🟢 | **Learning** · Vector Databases | Pinecone, pgvector, embedding search |
+| 🟢 | **Learning** · AI Agents | LangChain, tool use, multi-step reasoning, evals |
+| 📖 | **Reading** | *Founders at Work* — Jessica Livingston |
+| 🔨 | **Building** | Something new — will push soon |
+| 💼 | **Status** | Open to new opportunities |
+
+---
 
 <div align="center">
-  <a href="https://github.com/ArpitRajputGithub/CodeZen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitRajputGithub&repo=CodeZen&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/ArpitRajputGithub/My-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitRajputGithub&repo=My-Portfolio&theme=react&hide_border=true" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284118-507fab61-c10f-4b35-a793-55151d62fac0.gif" width="100%">
-</div>
+*"We're here to put a dent in the universe. Otherwise, why else even be here?"*
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitRajputGithub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="My GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitRajputGithub&theme=react&hide_border=true&background=0D1117" alt="My GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitRajputGithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%">
-</div>
-
-## 👨‍💻 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/ArpitRajputGithub">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ArpitRajputGithub&custom_title=Arpit%20Rajput's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/arpit-rajput-831393213">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/arpitstwt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:work.arpitrajput@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://arpitrajputgithub.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-</div>
-
-<div align="center">
-  
-  ### 🎯 Profile Views
-  
-  <img src="https://komarev.com/ghpvc/?username=ArpitRajputGithub&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-  
-  ### 👨‍💻 Visitor Count
-  <img src="https://profile-counter.glitch.me/ArpitRajputGithub/count.svg" />
-</div>
-
-<!-- The snake eating animation -->
-<div align="center">
-  <img src="https://github.com/ArpitRajputGithub/ArpitRajputGithub/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
