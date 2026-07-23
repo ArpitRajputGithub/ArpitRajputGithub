@@ -2,7 +2,7 @@
 
 # Arpit Rajput
 
-**Full-Stack Developer** · Building scalable web & mobile systems · Delhi, India
+`23 · India · Backend + terminals`
 
 [![Portfolio](https://img.shields.io/badge/arpitrajput.xyz-000000?style=flat-square&logo=vercel&logoColor=white)](https://arpitrajput.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arpit-rajput-831393213)
@@ -14,82 +14,15 @@
 
 ---
 
-## About
+## Now
 
-I'm a full-stack developer focused on building production-grade applications — from real-time backend systems to polished frontend UIs. I care about clean architecture, developer experience, and shipping things that actually work.
+Building **[httpsdev](https://httpsdev.pages.dev)** — real HTTPS on localhost, for any dev server. Go + bubbletea.
 
-- 🏢 Previously at **LabBuddy** and **Plunge** — built APIs, real-time features, and CI/CD pipelines
-- 🌱 Exploring system design, distributed systems, and cloud-native patterns
-- 🤝 Co-founder of **[Codegeeks](https://whatsapp.com/channel/0029Vb6t1WcDZ4LUSuMSo62S)** — a developer community for builders
+Also: co-founder of **[Codegeeks](https://whatsapp.com/channel/0029Vb6t1WcDZ4LUSuMSo62S)** — a WhatsApp channel for devs who ship.
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=58a6ff)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=58a6ff)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=58a6ff)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=58a6ff)&nbsp;
-![GSAP](https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=58a6ff)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=58a6ff)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff)&nbsp;
-![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=58a6ff)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-161b22?style=flat-square&logo=graphql&logoColor=58a6ff)&nbsp;
-![BullMQ](https://img.shields.io/badge/BullMQ-161b22?style=flat-square&logo=redis&logoColor=58a6ff)
-
-**Database & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=58a6ff)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=58a6ff)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazon-aws&logoColor=58a6ff)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=58a6ff)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=58a6ff)
-
-</div>
-
----
-
-## Work Experience
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>LabBuddy</h3>
-      <strong>Full Stack Developer</strong> · Apr – Oct 2025<br/><br/>
-      Built patient & lab management workflows for a healthcare platform.<br/><br/>
-      <ul>
-        <li>Designed secure FastAPI services with JWT auth — reduced vulnerabilities by <strong>95%</strong></li>
-        <li>Integrated AWS S3 + SES achieving <strong>99.9% uptime</strong></li>
-        <li>Delivered Firebase push notifications with <strong>98% delivery rate</strong></li>
-        <li>Built async background task system improving UX responsiveness by <strong>60%</strong></li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Plunge</h3>
-      <strong>Full Stack Developer</strong> · Dec 2024 – Apr 2025<br/><br/>
-      Architected social networking features in React Native + Node.js.<br/><br/>
-      <ul>
-        <li>Cut backend latency by <strong>40%</strong>, boosting engagement by <strong>25%</strong></li>
-        <li>Set up GitHub Actions CI/CD, cutting deploy time by <strong>50%</strong></li>
-        <li>Shipped <strong>15+ features</strong> across agile sprints</li>
-        <li>Mentored junior developers and led code reviews</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
+## Featured
 
 <div align="center">
 <table>
@@ -116,7 +49,48 @@ I'm a full-stack developer focused on building production-grade applications —
 
 ---
 
-## GitHub Stats
+## Stack
+
+<div align="center">
+
+Go · TypeScript · Python · React · Next.js · React Native · Tailwind · FastAPI · Node.js · Express · GraphQL · PostgreSQL · MongoDB · Redis · AWS · Docker · Supabase · bubbletea
+
+</div>
+
+---
+
+## Before
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>LabBuddy</h3>
+      <strong>Full Stack Developer</strong> · Apr – Oct 2025<br/><br/>
+      Patient + lab management workflows for a healthcare platform.
+      <ul>
+        <li>Secure FastAPI services with JWT auth</li>
+        <li>AWS S3 + SES integration</li>
+        <li>Firebase push notifications</li>
+        <li>Async background task system</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Plunge</h3>
+      <strong>Full Stack Developer</strong> · Dec 2024 – Apr 2025<br/><br/>
+      Social networking features in React Native + Node.js.
+      <ul>
+        <li>Backend latency cut ~40%</li>
+        <li>GitHub Actions CI/CD pipeline</li>
+        <li>Shipped 15+ features across sprints</li>
+        <li>Mentored juniors, ran code reviews</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub
 
 <div align="center">
 
@@ -128,22 +102,8 @@ I'm a full-stack developer focused on building production-grade applications —
 
 ---
 
-## Currently
-
-| Status | Area | Details |
-|:---:|---|---|
-| 🟢 | **Learning** · Rust | Memory safety, ownership model, systems programming |
-| 🟢 | **Learning** · LLM Engineering | OpenAI / Anthropic APIs, RAG pipelines, function calling |
-| 🟢 | **Learning** · Vector Databases | Pinecone, pgvector, embedding search |
-| 🟢 | **Learning** · AI Agents | LangChain, tool use, multi-step reasoning, evals |
-| 📖 | **Reading** | *Founders at Work* — Jessica Livingston |
-| 🔨 | **Building** | [**httpsdev**](https://httpsdev.pages.dev) — real HTTPS on localhost for any dev server |
-| 💼 | **Status** | Open to new opportunities |
-
----
-
 <div align="center">
 
-*"We're here to put a dent in the universe. Otherwise, why else even be here?"*
+<sub>The best code is the code never written.</sub>
 
 </div>
