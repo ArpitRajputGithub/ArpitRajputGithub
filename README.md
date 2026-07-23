@@ -95,12 +95,12 @@ I'm a full-stack developer focused on building production-grade applications —
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ArpitRajputGithub/CodeZen">
-        <img src="https://img.shields.io/badge/CodeZen-161b22?style=flat-square&logo=github&logoColor=58a6ff"/>
+      <a href="https://github.com/ArpitRajputGithub/httpsdev">
+        <img src="https://img.shields.io/badge/httpsdev-cba6f7?style=flat-square&logo=go&logoColor=1e1e2e"/>
       </a>
       <br/><br/>
-      <strong><a href="https://github.com/ArpitRajputGithub/CodeZen">CodeZen</a></strong><br/>
-      <sub>React · TypeScript</sub>
+      <strong><a href="https://httpsdev.pages.dev">httpsdev</a></strong><br/>
+      <sub>Real HTTPS on localhost · Go + bubbletea</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://arpitrajput.xyz">
@@ -137,7 +137,7 @@ I'm a full-stack developer focused on building production-grade applications —
 | 🟢 | **Learning** · Vector Databases | Pinecone, pgvector, embedding search |
 | 🟢 | **Learning** · AI Agents | LangChain, tool use, multi-step reasoning, evals |
 | 📖 | **Reading** | *Founders at Work* — Jessica Livingston |
-| 🔨 | **Building** | Something new — will push soon |
+| 🔨 | **Building** | [**httpsdev**](https://httpsdev.pages.dev) — real HTTPS on localhost for any dev server |
 | 💼 | **Status** | Open to new opportunities |
 
 ---
